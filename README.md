@@ -6,5 +6,6 @@
 
 </div>
 
-Ссылка на последнюю версию работы 4.3.2: [4.3.2 \[latest\] praktika june 2026.pkt](4.3.2%20%5Blatest%5D%20praktika%20june%202026.pkt)
-Ссылка на все версии работы: [клик](versions/)
+### Ссылка на последнюю версию работы: [4.3.2 \[latest\] praktika june 2026.pkt](4.3.2%20%5Blatest%5D%20praktika%20june%202026.pkt)
+
+### Ссылка на все версии: [клик](versions/)
